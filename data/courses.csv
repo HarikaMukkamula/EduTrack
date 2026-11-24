@@ -1,0 +1,9 @@
+#COURSE_CODE,TITLE,DESCRIPTION,CREDITS,DEPARTMENT,MAX_CAPACITY,INSTRUCTOR_ID,PREREQUISITES
+CSE405,Cloud Computing & Distributed Systems,Microservices;; virtualization;; distributed storage;; and AWS/GCP architecture,3,CSE,30,INS201,CSE301
+SDC,Skill Development course,CSE301,2,CSE,50,,
+BEE,Basic Electrical Engineering,None,3,ECE,7,,
+CSE102,Data Structures & Algorithms,Analysis and implementation of lists;; trees;; graphs;; hashing;; and sorting,4,CSE,40,INS201,CSE101
+CSE201,Software Design Patterns,GoF design patterns;; UML;; refactoring;; and clean architecture,3,CSE,35,INS202,CSE101
+CSE301,Database Management Systems,Relational algebra;; SQL;; normalization;; transaction processing;; and indexing,4,CSE,40,INS201,CSE102
+CSE101,Introduction to Java OOP,Core principles of OOP;; encapsulation;; polymorphism;; and Java fundamentals,4,CSE,45,INS202,
+EE205,Computer Networks & Protocols,Layered network architecture;; TCP/IP;; routing protocols;; and socket programming,3,Electrical & Computer Eng,30,INS203,CSE101

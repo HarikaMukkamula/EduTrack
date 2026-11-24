@@ -1,0 +1,18 @@
+#TYPE,ID,NAME,EMAIL,PASSWORD,EXTRA1,EXTRA2,EXTRA3,EXTRA4
+STUDENT,STU309,sathvika,sathvika@gcet.edu.in,student123,ECE,4,7,8632459771
+ADMIN,ADM101,Dr. Sarah Jenkins,admin@gcet.edu.in,admin123,Academic Affairs,University Registrar,,
+INSTRUCTOR,INS203,Dr. Claude Shannon,shannon@gcet.edu.in,prof123,Electrical & Computer Eng,Networks & Information Theory,EE205,
+ADMIN,ADM102,Mark Henderson,mark@gcet.edu.in,admin123,Faculty of Engineering,Department Dean,,
+INSTRUCTOR,INS202,Prof. Grace Hopper,hopper@gcet.edu.in,prof123,CSE,Programming Systems & Compilers,CSE201;CSE101,
+INSTRUCTOR,INS201,Prof. Alan Turing,turing@gcet.edu.in,prof123,CSE,Algorithms & Theory,CSE405;CSE102;CSE301,
+STUDENT,STU302,Rahul Sharma,rahul@gcet.edu.in,student123,CSE,2,3,9876543211
+STUDENT,STU301,Harika Mukkamula,harika@gcet.edu.in,student123,CSE,2,3,9876543210
+STUDENT,STU312,Hemalatha,hema@gcet.edu.in,student123,CE,2,4,9632587414
+STUDENT,STU304,David Miller,david@gcet.edu.in,student123,Data Science,1,1,9876543213
+STUDENT,STU303,Priya Patel,priya@gcet.edu.in,student123,CSE,2,3,9876543212
+STUDENT,STU306,TUPAKULA SOWMYA,sowmya@gcet.edu.in,student99,CSE,2,3,6302038180
+STUDENT,STU305,TUPAKULA SOWMYA,25r11a05lp@gcet.edu.in,25R11A05LP,CSE,2,3,6302038180
+STUDENT,STU308,Bhuvana,bhuvana@gcet.edu.in,student123,CSE,3,5,9356248362
+STUDENT,STU307,Waheeduddin,waheed@gcet.edu.in,student123,CSE,2,3,8302459781
+STUDENT,STU311,Pavan,pavan@gcet.edu.in,student123,CSE,3,6,9546278312
+STUDENT,STU310,Ram,ram@gcet.edu.in,student123,ECE,4,8,9396447951
